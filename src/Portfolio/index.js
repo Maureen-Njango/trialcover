@@ -18,21 +18,29 @@ const Portfolio = ()=>{
 I am eager to connect with other software developers in this field so as  to be able to support my growth in this career.
 </p>
          </div>
+         <div className="skillsimage">
+         
          <div className="skills">
-            <h2>Skills</h2>
-            <p> Ability to integrate frontend applications with various APIs and services .
+            <p>Skills</p>
+            <p> &#8226; Ability to integrate frontend applications with various APIs and services .
             </p>
-            <p>Capable of adding onClick listeners to widgets and handling user interaction .
+            <p> &#8226;Capable of adding onClick listeners to widgets and handling user interaction .
             </p>
-            <p>Skilled in defining classes to model real-world entities and abstract concepts .
+            <p> &#8226;Skilled in defining classes to model real-world entities and abstract concepts .
             </p>
-            <p>Well skilled in utilizing objects to represent and manipulate data effectively .
+            <p> &#8226;Well skilled in utilizing objects to represent and manipulate data effectively .
             </p>
-            <p>Well conversant with sql statements and able to access and edit information . 
+            <p> &#8226;Well conversant with sql statements and able to access and edit information . 
             </p>
-            <p>Expertise in React.js  for building  interactive UI interface .
+            <p> &#8226;Expertise in React.js  for building  interactive UI interface .
             </p>
          </div>
+         <div>
+         <img src='/Images/jash.jpg' alt=" showing a book for trevor noah" className="mooo"/></div>
+
+          
+         </div>
+         
 
 
 
