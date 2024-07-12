@@ -1,0 +1,101 @@
+.introduction{
+    display: contents; 
+    justify-content: center; 
+    display: flex;
+    margin-top: 4%;
+    gap: 7%;
+}
+h1{
+    font-size: 60px;
+    /* margin-top: 20%; */
+}
+h2{
+    font-size: 30px;
+}
+
+
+
+.about{
+    display: contents;
+    /* display: flex; */
+    text-align: center;
+    justify-content: center;
+    gap: 10%;
+    width: 50%;
+
+}
+.about p{
+    font-size: 25px;
+
+}
+.jango{
+    border-radius: 50%;
+    width: 480px;
+    height: 480px;
+    /* margin-bottom: 6%; */
+  
+}
+.skills{
+    display: contents;
+    justify-content: center;
+    text-align: center;
+    /* width: 20%; */
+
+}
+.skills p{
+    font-size: 30px;
+}
+
+
+@media (min-width:280px) and (max-width:360px){
+    .introduction{
+        flex-wrap: wrap;
+        
+
+ 
+        gap: 7%;
+    }
+    h1{
+        font-size: 12px;
+        /* margin-top: 20%; */
+        text-align: center;
+    }
+    h2{
+        font-size: 15px;
+    }
+    
+ 
+    .about{
+        display: contents;
+        /* display: flex; */
+        text-align: center;
+        justify-content: center;
+        gap: 10%;
+        width: 50%;
+    
+    }
+    .about p{
+        font-size: 10px;
+    
+    }
+    .jango{
+        border-radius: 50%;
+        width: 180px;
+        height: 180px;
+        /* margin-bottom: 6%; */
+      
+    }
+    .skills{
+        display: contents;
+        justify-content: center;
+        text-align: center;
+        /* width: 20%; */
+    
+    }
+    .skills p{
+        font-size: 5px;
+    }
+    
+  
+
+}
